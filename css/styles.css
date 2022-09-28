@@ -1,0 +1,61 @@
+body {
+    background-color: white;
+    margin: 0 auto;
+}
+
+main {
+    overflow: auto;
+}
+
+#pee{
+    text-align: center;
+}
+
+.hw{
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
+
+#d1 {
+    background-image: url("../images/dorkone.png");
+    
+}
+
+#d1:hover {
+    background-image: url("../images/dorkone.gif");
+}
+
+#d2 {
+    background-image: url("../images/dorktwo.png");
+}
+
+#d2:hover {
+    background-image: url("../images/dorktwo.gif");
+}
+
+#d3 {
+    background-image: url("../images/dorkthree.png");
+
+}
+
+#d3:hover {
+    background-image: url("../images/dorkthree.gif");
+}
+
+#d4 {
+    background-image: url("../images/dorkfour.png");
+}
+
+#d4:hover {
+    background-image: url("../images/dorkfour.gif");
+}
+
+#d5 {
+    background-image: url("../images/dorkfive.png");
+}
+
+#d5:hover {
+    background-image: url("../images/dorkfive.gif");
+}
